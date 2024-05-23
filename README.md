@@ -1,0 +1,4 @@
+- Hello, I’m Quentin Slater
+- Currently I am interested in Engineering
+- I’m currently learning coding and scripting 
+- How to reach me: Quentin.B.Slater@gmail.com
